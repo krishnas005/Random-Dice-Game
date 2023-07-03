@@ -1,11 +1,11 @@
-# Random-Dice-Game
+# DRUM KIT
+ 
+ It's a simple Drum Kit Game website that I made when I was learning Web Devlopment. It shows the basic applications of HTML,CSS and Javascript.
 
-That's a simple Random Dice Generator website that I made when I was learning Web Devlopment.It shows the basic applications of HTML,CSS and Javascript.
+ ## Tech Used
 
-## Tech Used
+HTML, CSS and Javascript
 
-HTML , CSS and Javascript.
+## HOW TO USE
 
-## How to use
-
-If you reload the webpage then you get random numbers on the dice(1-6). Which dice have more number value will win and it will shown on the screen. If both dices have same number then it will show Draw on the screen.
+The diplayed keys(buttons) on the screen are set to play a spefic sound when you click them or when you enter the keys displayed on the buttons on your keyboard.
